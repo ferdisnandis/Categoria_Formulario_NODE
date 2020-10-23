@@ -9,7 +9,7 @@ class Categorias extends Component {
 
         //Define os valores do state
         this.state = {
-            url : 'https://5f863c44c8a16a0016e6af04.mockapi.io/api/Categorias',
+            url : 'https://5f863c44c8a16a0016e6af04.mockapi.io/api/categorias',
             id : '',
             nome : '',
             categorias : []
